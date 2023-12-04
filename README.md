@@ -5,9 +5,9 @@ achieving an R2 of 0.98 and MAE of 8.8 kJ·mol-1 on an independent test set. Key
 and the utilization of an ensemble learning XGBoost architecture. This work provides a reliable prediction tool for EMs' BDE and offers methodological guidelines 
 for machine learning in low-data regimes.
 
-<div align=center>
-  <img width="825" alt="image" src="https://github.com/cholin01/BDE-prediction-of-energetic-material/assets/152848794/3b5afdb9-b2af-46aa-8368-1fe023db11d0">
-<div>
+
+<img width="825" alt="image" src="https://github.com/cholin01/BDE-prediction-of-energetic-material/assets/152848794/3b5afdb9-b2af-46aa-8368-1fe023db11d0">
+
 
 ## breif introduction
 
