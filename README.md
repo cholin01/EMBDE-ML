@@ -11,5 +11,5 @@ for machine learning in low-data regimes.
 
 ## breif introduction
 
-In this work, we employed two types of descriptors, SEC descriptors obtained by running the "descriptors.py" file, and CBD descriptors as shown in "CBD.csv". \<br>
+In this work, we employed two types of descriptors, SEC descriptors obtained by running the "descriptors.py" file, and CBD descriptors as shown in "CBD.csv". <\br>
 If you wish to use our model for predicting the bond dissociation energy of energetic materials, please run the "predict.py" file.
