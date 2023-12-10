@@ -9,7 +9,7 @@ for machine learning in low-data regimes.
 <img width="825" alt="image" src="https://github.com/cholin01/BDE-prediction-of-energetic-material/assets/152848794/3b5afdb9-b2af-46aa-8368-1fe023db11d0">
 
 
-## brief introduction
+## Brief introduction
 
 In this work, we employed two types of descriptors, SEC descriptors obtained by running the "descriptors.py" file, and CBD descriptors as shown in "CBD.csv". <br>
 If you wish to use our model for predicting the bond dissociation energy of energetic materials, please run the "predict.py" file.
