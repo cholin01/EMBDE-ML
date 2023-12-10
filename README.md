@@ -8,7 +8,7 @@ for machine learning in low-data regimes.
 <img width="825" alt="image" src="https://github.com/cholin01/EMBDE-ML/blob/master/Abstract_graph.jpg">
 
 
-## brief introduction
+## Brief introduction
 
 In this work, we employed two types of descriptors, SEC descriptors obtained by running the "descriptors.py" file, and CBD descriptors as shown in "CBD.csv". <br>
 If you wish to use our model for predicting the bond dissociation energy of energetic materials, please run the "predict.py" file.
