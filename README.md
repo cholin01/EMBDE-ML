@@ -5,7 +5,7 @@ achieving an R2 of 0.98 and MAE of 8.8 kJ·mol-1 on an independent test set. Key
 and the utilization of an ensemble learning XGBoost architecture. This work provides a reliable prediction tool for EMs' BDE and offers methodological guidelines 
 for machine learning in low-data regimes.
 
-<img width="825" alt="image" src="https://github.com/cholin01/EMBDE-ML/blob/master/Abstract_graph.jpg">
+<img width="825" alt="image" src="https://github.com/cholin01/EMBDE-ML/blob/master/graph.jpg">
 
 
 ## Brief introduction
